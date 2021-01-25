@@ -6,6 +6,9 @@
     "build": "vuedx-typecheck . && vite build"
   },
   "dependencies": {
+    "@types/uuid": "8.3.0",
+    "firebase": "8.2.4",
+    "uuid": "8.3.2",
     "vue": "^3.0.5"
   },
   "devDependencies": {
